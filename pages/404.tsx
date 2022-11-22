@@ -18,7 +18,7 @@ const Error = () => {
             <Head>
                 <title>404</title>
             </Head>
-            <Heading text="404" />
+            <Heading text="404" tag="h1"/>
             <Heading text="Something is going wrong..." tag="h2" />
         </div>  
     )
